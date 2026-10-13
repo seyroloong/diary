@@ -1,5 +1,4 @@
-# diary
+# my digital diary
 
-this is me testing something
-
-<h>me again, testing</H>
+my goal is to be able to understand coding better by next october,
+even if i dont use it a lot i'd like to know its functions.
